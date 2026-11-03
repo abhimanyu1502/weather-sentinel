@@ -1,0 +1,15 @@
+{
+  "timestamp": "null",
+  "metrics": {
+    "POD": 1.0,
+    "FAR": 0.0,
+    "CSI": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1_Score": 1.0,
+    "Brier_Score": 0.06,
+    "Mean_Lead_Time_Minutes": 0.0,
+    "Median_Lead_Time_Minutes": 0.0,
+    "Percent_Detected_Ge_6h": 0.0
+  }
+}

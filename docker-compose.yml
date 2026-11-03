@@ -1,0 +1,83 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgis/postgis:16-3.4
+    container_name: stormsentinel_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-stormsentinel}
+      POSTGRES_USER: ${POSTGRES_USER:-weather_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-stormsentinel_secure_2024}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/init_db.sql:/docker-entrypoint-initdb.d/init_db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-weather_admin} -d ${POSTGRES_DB:-stormsentinel}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: stormsentinel_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: stormsentinel_backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      - APP_NAME=AntiGravity
+      - APP_VERSION=3.0.0
+      - DEBUG=True
+      - DEMO_MODE=True
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - DEMO_BROADCAST_INTERVAL_SEC=3
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-weather_admin}:${POSTGRES_PASSWORD:-stormsentinel_secure_2024}@postgres:5432/${POSTGRES_DB:-stormsentinel}
+      - REDIS_URL=redis://redis:6379/0
+      - INFERENCE_DEVICE=cpu
+      - MODEL_CHECKPOINT_PATH=models/checkpoints/convlstm_nowcaster.pt
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
+      - NVIDIA_API_KEY=${NVIDIA_API_KEY:-}
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: stormsentinel_frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+
+volumes:
+  postgres_data:
+  redis_data:

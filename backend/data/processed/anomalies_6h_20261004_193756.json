@@ -1,0 +1,162 @@
+{
+  "ingestion_timestamp": "2026-10-04T19:37:56.825746+00:00",
+  "stations_monitored": 4,
+  "stations_successfully_ingested": 4,
+  "anomalies_detected_count": 2,
+  "critical_count": 0,
+  "severe_count": 1,
+  "warning_count": 1,
+  "lead_time_horizon": "0 to 6 Hours (T-6h Early Warning)",
+  "anomalies": [
+    {
+      "station_id": "kolkata",
+      "station_name": "Kolkata",
+      "state": "West Bengal",
+      "zone": "East",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2120.0,
+      "peak_gust_kmh": 10.4,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2120 J/kg) in Kolkata within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2120.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 27.6
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2060.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 27.4
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2040.0,
+          "wind_gusts_kmh": 10.4,
+          "temperature_c": 27.0
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2070.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 26.7
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2100.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 26.6
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1980.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 26.3
+        }
+      ],
+      "detected_at": "2026-10-04T19:37:57.818850+00:00"
+    },
+    {
+      "station_id": "guwahati",
+      "station_name": "Guwahati",
+      "state": "Assam",
+      "zone": "Northeast",
+      "lat": 26.1445,
+      "lon": 91.7362,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 6,
+      "lead_time_minutes": 360,
+      "estimated_occurrence": "2026-10-05T05:00",
+      "peak_rain_mm_hr": 0.8,
+      "peak_cape_j_kg": 1400.0,
+      "peak_gust_kmh": 17.6,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Guwahati within 6h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 40,
+          "cape_j_kg": 1400.0,
+          "wind_gusts_kmh": 13.7,
+          "temperature_c": 24.6
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 44,
+          "cape_j_kg": 1350.0,
+          "wind_gusts_kmh": 15.1,
+          "temperature_c": 24.4
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 49,
+          "cape_j_kg": 1370.0,
+          "wind_gusts_kmh": 16.9,
+          "temperature_c": 24.1
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 56,
+          "cape_j_kg": 1230.0,
+          "wind_gusts_kmh": 17.6,
+          "temperature_c": 23.9
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.3,
+          "precipitation_prob_pct": 63,
+          "cape_j_kg": 820.0,
+          "wind_gusts_kmh": 15.5,
+          "temperature_c": 23.7
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.8,
+          "precipitation_prob_pct": 67,
+          "cape_j_kg": 730.0,
+          "wind_gusts_kmh": 15.8,
+          "temperature_c": 22.8
+        }
+      ],
+      "detected_at": "2026-10-04T19:37:57.820036+00:00"
+    }
+  ]
+}

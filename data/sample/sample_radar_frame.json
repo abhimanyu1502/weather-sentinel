@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-08T00:00:00Z",
+  "station": "DWR_DELHI_PALAM",
+  "frequency_ghz": 2.8,
+  "max_reflectivity_dbz": 54.2,
+  "radial_velocity_max_ms": 28.5,
+  "echo_top_km": 14.2,
+  "cells_segmented": 3
+}

@@ -1,0 +1,11 @@
+{
+  "ingestion_timestamp": "2026-10-04T20:07:34.135197+00:00",
+  "stations_monitored": 1,
+  "stations_successfully_ingested": 1,
+  "anomalies_detected_count": 0,
+  "critical_count": 0,
+  "severe_count": 0,
+  "warning_count": 0,
+  "lead_time_horizon": "0 to 6 Hours (T-6h Early Warning)",
+  "anomalies": []
+}

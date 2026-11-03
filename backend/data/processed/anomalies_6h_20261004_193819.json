@@ -1,0 +1,1362 @@
+{
+  "ingestion_timestamp": "2026-10-04T19:38:19.572771+00:00",
+  "stations_monitored": 39,
+  "stations_successfully_ingested": 39,
+  "anomalies_detected_count": 18,
+  "critical_count": 0,
+  "severe_count": 6,
+  "warning_count": 12,
+  "lead_time_horizon": "0 to 6 Hours (T-6h Early Warning)",
+  "anomalies": [
+    {
+      "station_id": "shimla",
+      "station_name": "Shimla",
+      "state": "Himachal Pradesh",
+      "zone": "North",
+      "lat": 31.1048,
+      "lon": 77.1734,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1390.0,
+      "peak_gust_kmh": 8.3,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Shimla within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1390.0,
+          "wind_gusts_kmh": 4.7,
+          "temperature_c": 11.5
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1030.0,
+          "wind_gusts_kmh": 5.4,
+          "temperature_c": 10.6
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 850.0,
+          "wind_gusts_kmh": 7.9,
+          "temperature_c": 9.7
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 710.0,
+          "wind_gusts_kmh": 8.3,
+          "temperature_c": 9.2
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 530.0,
+          "wind_gusts_kmh": 7.6,
+          "temperature_c": 9.1
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 490.0,
+          "wind_gusts_kmh": 6.8,
+          "temperature_c": 9.5
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.495452+00:00"
+    },
+    {
+      "station_id": "dehradun",
+      "station_name": "Dehradun",
+      "state": "Uttarakhand",
+      "zone": "North",
+      "lat": 30.3165,
+      "lon": 78.0322,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1780.0,
+      "peak_gust_kmh": 6.8,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Dehradun within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1780.0,
+          "wind_gusts_kmh": 6.1,
+          "temperature_c": 21.4
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1740.0,
+          "wind_gusts_kmh": 6.1,
+          "temperature_c": 20.8
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1760.0,
+          "wind_gusts_kmh": 5.8,
+          "temperature_c": 20.5
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1740.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 20.1
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1690.0,
+          "wind_gusts_kmh": 6.8,
+          "temperature_c": 19.8
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1710.0,
+          "wind_gusts_kmh": 6.8,
+          "temperature_c": 19.7
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.496517+00:00"
+    },
+    {
+      "station_id": "chandigarh",
+      "station_name": "Chandigarh",
+      "state": "Chandigarh",
+      "zone": "North",
+      "lat": 30.7333,
+      "lon": 76.7794,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1880.0,
+      "peak_gust_kmh": 9.7,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Chandigarh within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1880.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 23.7
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1860.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 23.2
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1800.0,
+          "wind_gusts_kmh": 7.2,
+          "temperature_c": 22.6
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1680.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 22.3
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1600.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 22.1
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1570.0,
+          "wind_gusts_kmh": 5.4,
+          "temperature_c": 22.2
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.497288+00:00"
+    },
+    {
+      "station_id": "amritsar",
+      "station_name": "Amritsar",
+      "state": "Punjab",
+      "zone": "North",
+      "lat": 31.634,
+      "lon": 74.8723,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1900.0,
+      "peak_gust_kmh": 12.2,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Amritsar within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1900.0,
+          "wind_gusts_kmh": 7.2,
+          "temperature_c": 26.6
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1830.0,
+          "wind_gusts_kmh": 11.2,
+          "temperature_c": 26.0
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1670.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 25.5
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1740.0,
+          "wind_gusts_kmh": 10.8,
+          "temperature_c": 25.0
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1860.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 24.6
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1820.0,
+          "wind_gusts_kmh": 7.9,
+          "temperature_c": 24.3
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.497965+00:00"
+    },
+    {
+      "station_id": "lucknow",
+      "station_name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zone": "North",
+      "lat": 26.8467,
+      "lon": 80.9462,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1640.0,
+      "peak_gust_kmh": 9.0,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Lucknow within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1640.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 26.2
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1620.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 25.8
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1500.0,
+          "wind_gusts_kmh": 5.0,
+          "temperature_c": 25.4
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1410.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 25.0
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1380.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 24.6
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1360.0,
+          "wind_gusts_kmh": 8.3,
+          "temperature_c": 24.1
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.499464+00:00"
+    },
+    {
+      "station_id": "surat",
+      "station_name": "Surat",
+      "state": "Gujarat",
+      "zone": "West",
+      "lat": 21.1702,
+      "lon": 72.8311,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2110.0,
+      "peak_gust_kmh": 17.3,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2110 J/kg) in Surat within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1790.0,
+          "wind_gusts_kmh": 17.3,
+          "temperature_c": 27.9
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2110.0,
+          "wind_gusts_kmh": 11.5,
+          "temperature_c": 27.1
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1920.0,
+          "wind_gusts_kmh": 5.8,
+          "temperature_c": 26.3
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1650.0,
+          "wind_gusts_kmh": 5.8,
+          "temperature_c": 25.6
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1530.0,
+          "wind_gusts_kmh": 4.0,
+          "temperature_c": 24.9
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1370.0,
+          "wind_gusts_kmh": 5.8,
+          "temperature_c": 24.6
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.513021+00:00"
+    },
+    {
+      "station_id": "panaji",
+      "station_name": "Panaji",
+      "state": "Goa",
+      "zone": "West",
+      "lat": 15.4909,
+      "lon": 73.8278,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 5220.0,
+      "peak_gust_kmh": 16.6,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 5220 J/kg) in Panaji within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 5220.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 28.4
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 4910.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 28.1
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 2,
+          "cape_j_kg": 4730.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 27.7
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 4490.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 27.4
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 4170.0,
+          "wind_gusts_kmh": 14.8,
+          "temperature_c": 27.3
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 4060.0,
+          "wind_gusts_kmh": 16.6,
+          "temperature_c": 27.4
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.714602+00:00"
+    },
+    {
+      "station_id": "chennai",
+      "station_name": "Chennai",
+      "state": "Tamil Nadu",
+      "zone": "South",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2150.0,
+      "peak_gust_kmh": 19.8,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2150 J/kg) in Chennai within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1800.0,
+          "wind_gusts_kmh": 19.8,
+          "temperature_c": 29.8
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1810.0,
+          "wind_gusts_kmh": 18.4,
+          "temperature_c": 29.5
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1860.0,
+          "wind_gusts_kmh": 16.2,
+          "temperature_c": 29.1
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 5,
+          "cape_j_kg": 2030.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 28.6
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 12,
+          "cape_j_kg": 2150.0,
+          "wind_gusts_kmh": 11.2,
+          "temperature_c": 28.2
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 16,
+          "cape_j_kg": 2100.0,
+          "wind_gusts_kmh": 11.9,
+          "temperature_c": 27.8
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.716978+00:00"
+    },
+    {
+      "station_id": "kochi",
+      "station_name": "Kochi",
+      "state": "Kerala",
+      "zone": "South",
+      "lat": 9.9312,
+      "lon": 76.2673,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 1,
+      "lead_time_minutes": 60,
+      "estimated_occurrence": "2026-10-05T00:00",
+      "peak_rain_mm_hr": 0.7,
+      "peak_cape_j_kg": 1940.0,
+      "peak_gust_kmh": 16.6,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Kochi within 1h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.7,
+          "precipitation_prob_pct": 38,
+          "cape_j_kg": 1160.0,
+          "wind_gusts_kmh": 16.6,
+          "temperature_c": 25.4
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.4,
+          "precipitation_prob_pct": 44,
+          "cape_j_kg": 1490.0,
+          "wind_gusts_kmh": 12.2,
+          "temperature_c": 25.4
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.1,
+          "precipitation_prob_pct": 49,
+          "cape_j_kg": 1800.0,
+          "wind_gusts_kmh": 14.4,
+          "temperature_c": 25.2
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.1,
+          "precipitation_prob_pct": 49,
+          "cape_j_kg": 1940.0,
+          "wind_gusts_kmh": 13.3,
+          "temperature_c": 24.9
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 47,
+          "cape_j_kg": 1420.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 25.2
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 43,
+          "cape_j_kg": 1390.0,
+          "wind_gusts_kmh": 11.2,
+          "temperature_c": 25.2
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.719373+00:00"
+    },
+    {
+      "station_id": "visakhapatnam",
+      "station_name": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "zone": "South",
+      "lat": 17.6868,
+      "lon": 83.2185,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2480.0,
+      "peak_gust_kmh": 9.7,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2480 J/kg) in Visakhapatnam within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2480.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 26.8
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2430.0,
+          "wind_gusts_kmh": 8.6,
+          "temperature_c": 26.6
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2310.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 26.4
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2180.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 26.3
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2110.0,
+          "wind_gusts_kmh": 8.3,
+          "temperature_c": 26.1
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2050.0,
+          "wind_gusts_kmh": 7.2,
+          "temperature_c": 25.9
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.721367+00:00"
+    },
+    {
+      "station_id": "puducherry",
+      "station_name": "Puducherry",
+      "state": "Puducherry",
+      "zone": "South",
+      "lat": 11.9416,
+      "lon": 79.8083,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2490.0,
+      "peak_gust_kmh": 19.8,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2490 J/kg) in Puducherry within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2070.0,
+          "wind_gusts_kmh": 19.8,
+          "temperature_c": 29.8
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2090.0,
+          "wind_gusts_kmh": 19.4,
+          "temperature_c": 29.6
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2120.0,
+          "wind_gusts_kmh": 17.6,
+          "temperature_c": 29.4
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 7,
+          "cape_j_kg": 2190.0,
+          "wind_gusts_kmh": 15.1,
+          "temperature_c": 29.0
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 15,
+          "cape_j_kg": 2490.0,
+          "wind_gusts_kmh": 15.8,
+          "temperature_c": 28.3
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 20,
+          "cape_j_kg": 2370.0,
+          "wind_gusts_kmh": 16.2,
+          "temperature_c": 27.6
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.722430+00:00"
+    },
+    {
+      "station_id": "kolkata",
+      "station_name": "Kolkata",
+      "state": "West Bengal",
+      "zone": "East",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "anomaly_type": "SEVERE_THUNDERSTORM",
+      "severity": "SEVERE",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 2120.0,
+      "peak_gust_kmh": 10.4,
+      "warning_headline": "T-6h Advance Prediction: Severe thunderstorm with hail risk (CAPE 2120 J/kg) in Kolkata within 3h",
+      "action_protocol": "Civil defense alert, urban underpass monitoring, power transmission safety protocol",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2120.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 27.6
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2060.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 27.4
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2040.0,
+          "wind_gusts_kmh": 10.4,
+          "temperature_c": 27.0
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2070.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 26.7
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 2100.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 26.6
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1980.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 26.3
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.723586+00:00"
+    },
+    {
+      "station_id": "patna",
+      "station_name": "Patna",
+      "state": "Bihar",
+      "zone": "East",
+      "lat": 25.5941,
+      "lon": 85.1376,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1550.0,
+      "peak_gust_kmh": 10.4,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Patna within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1550.0,
+          "wind_gusts_kmh": 3.2,
+          "temperature_c": 25.9
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1520.0,
+          "wind_gusts_kmh": 2.9,
+          "temperature_c": 25.7
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1490.0,
+          "wind_gusts_kmh": 3.2,
+          "temperature_c": 25.5
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1520.0,
+          "wind_gusts_kmh": 6.5,
+          "temperature_c": 25.2
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1390.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 25.1
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1180.0,
+          "wind_gusts_kmh": 10.4,
+          "temperature_c": 24.7
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.726056+00:00"
+    },
+    {
+      "station_id": "guwahati",
+      "station_name": "Guwahati",
+      "state": "Assam",
+      "zone": "Northeast",
+      "lat": 26.1445,
+      "lon": 91.7362,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 6,
+      "lead_time_minutes": 360,
+      "estimated_occurrence": "2026-10-05T05:00",
+      "peak_rain_mm_hr": 0.8,
+      "peak_cape_j_kg": 1400.0,
+      "peak_gust_kmh": 17.6,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Guwahati within 6h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 40,
+          "cape_j_kg": 1400.0,
+          "wind_gusts_kmh": 13.7,
+          "temperature_c": 24.6
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 44,
+          "cape_j_kg": 1350.0,
+          "wind_gusts_kmh": 15.1,
+          "temperature_c": 24.4
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 49,
+          "cape_j_kg": 1370.0,
+          "wind_gusts_kmh": 16.9,
+          "temperature_c": 24.1
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 56,
+          "cape_j_kg": 1230.0,
+          "wind_gusts_kmh": 17.6,
+          "temperature_c": 23.9
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.3,
+          "precipitation_prob_pct": 63,
+          "cape_j_kg": 820.0,
+          "wind_gusts_kmh": 15.5,
+          "temperature_c": 23.7
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.8,
+          "precipitation_prob_pct": 67,
+          "cape_j_kg": 730.0,
+          "wind_gusts_kmh": 15.8,
+          "temperature_c": 22.8
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.732678+00:00"
+    },
+    {
+      "station_id": "agartala",
+      "station_name": "Agartala",
+      "state": "Tripura",
+      "zone": "Northeast",
+      "lat": 23.8315,
+      "lon": 91.2868,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1800.0,
+      "peak_gust_kmh": 14.4,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Agartala within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 3,
+          "cape_j_kg": 1800.0,
+          "wind_gusts_kmh": 14.4,
+          "temperature_c": 24.8
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 1760.0,
+          "wind_gusts_kmh": 12.6,
+          "temperature_c": 24.6
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1650.0,
+          "wind_gusts_kmh": 10.1,
+          "temperature_c": 24.4
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1590.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 24.3
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 1610.0,
+          "wind_gusts_kmh": 9.4,
+          "temperature_c": 24.2
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 2,
+          "cape_j_kg": 1660.0,
+          "wind_gusts_kmh": 6.8,
+          "temperature_c": 24.2
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.937947+00:00"
+    },
+    {
+      "station_id": "aizawl",
+      "station_name": "Aizawl",
+      "state": "Mizoram",
+      "zone": "Northeast",
+      "lat": 23.7271,
+      "lon": 92.7176,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1930.0,
+      "peak_gust_kmh": 9.0,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Aizawl within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1930.0,
+          "wind_gusts_kmh": 6.1,
+          "temperature_c": 18.5
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1740.0,
+          "wind_gusts_kmh": 8.6,
+          "temperature_c": 18.1
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1450.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 18.1
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1160.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 18.0
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1080.0,
+          "wind_gusts_kmh": 8.6,
+          "temperature_c": 17.8
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 0,
+          "cape_j_kg": 1000.0,
+          "wind_gusts_kmh": 8.6,
+          "temperature_c": 17.8
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.940674+00:00"
+    },
+    {
+      "station_id": "port-blair",
+      "station_name": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "zone": "Islands",
+      "lat": 11.6234,
+      "lon": 92.7265,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 3,
+      "lead_time_minutes": 180,
+      "estimated_occurrence": "2026-10-05T02:00",
+      "peak_rain_mm_hr": 0.0,
+      "peak_cape_j_kg": 1670.0,
+      "peak_gust_kmh": 9.7,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Port Blair within 3h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 1670.0,
+          "wind_gusts_kmh": 6.8,
+          "temperature_c": 25.0
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 3,
+          "cape_j_kg": 1200.0,
+          "wind_gusts_kmh": 9.7,
+          "temperature_c": 24.1
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 4,
+          "cape_j_kg": 1210.0,
+          "wind_gusts_kmh": 9.0,
+          "temperature_c": 23.7
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 3,
+          "cape_j_kg": 1290.0,
+          "wind_gusts_kmh": 7.6,
+          "temperature_c": 23.5
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 1,
+          "cape_j_kg": 1330.0,
+          "wind_gusts_kmh": 7.6,
+          "temperature_c": 23.4
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 2,
+          "cape_j_kg": 1290.0,
+          "wind_gusts_kmh": 7.6,
+          "temperature_c": 23.4
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.944124+00:00"
+    },
+    {
+      "station_id": "kavaratti",
+      "station_name": "Kavaratti",
+      "state": "Lakshadweep",
+      "zone": "Islands",
+      "lat": 10.5667,
+      "lon": 72.6417,
+      "anomaly_type": "HEAVY_CONVECTIVE_RAIN",
+      "severity": "WARNING",
+      "lead_time_hours": 1,
+      "lead_time_minutes": 60,
+      "estimated_occurrence": "2026-10-05T00:00",
+      "peak_rain_mm_hr": 0.1,
+      "peak_cape_j_kg": 1610.0,
+      "peak_gust_kmh": 18.0,
+      "warning_headline": "T-6h Advance Prediction: Convective initiation & heavy downpours in Kavaratti within 1h",
+      "action_protocol": "Municipal stormwater monitoring, agro-met advisory broadcast",
+      "hourly_breakdown": [
+        {
+          "hour_offset": 1,
+          "time": "2026-10-05T00:00",
+          "precipitation_mm": 0.1,
+          "precipitation_prob_pct": 14,
+          "cape_j_kg": 1300.0,
+          "wind_gusts_kmh": 13.7,
+          "temperature_c": 29.8
+        },
+        {
+          "hour_offset": 2,
+          "time": "2026-10-05T01:00",
+          "precipitation_mm": 0.1,
+          "precipitation_prob_pct": 18,
+          "cape_j_kg": 1490.0,
+          "wind_gusts_kmh": 14.0,
+          "temperature_c": 29.6
+        },
+        {
+          "hour_offset": 3,
+          "time": "2026-10-05T02:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 20,
+          "cape_j_kg": 1240.0,
+          "wind_gusts_kmh": 16.6,
+          "temperature_c": 29.6
+        },
+        {
+          "hour_offset": 4,
+          "time": "2026-10-05T03:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 19,
+          "cape_j_kg": 1460.0,
+          "wind_gusts_kmh": 18.0,
+          "temperature_c": 29.4
+        },
+        {
+          "hour_offset": 5,
+          "time": "2026-10-05T04:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 17,
+          "cape_j_kg": 1570.0,
+          "wind_gusts_kmh": 18.0,
+          "temperature_c": 29.4
+        },
+        {
+          "hour_offset": 6,
+          "time": "2026-10-05T05:00",
+          "precipitation_mm": 0.0,
+          "precipitation_prob_pct": 16,
+          "cape_j_kg": 1610.0,
+          "wind_gusts_kmh": 15.5,
+          "temperature_c": 29.4
+        }
+      ],
+      "detected_at": "2026-10-04T19:38:20.945246+00:00"
+    }
+  ]
+}

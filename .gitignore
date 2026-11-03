@@ -1,0 +1,135 @@
+# ==============================================================================
+# StormSentinel / AntiGravity — Master Git Ignore Configuration
+# ==============================================================================
+
+# --- Python & Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+pyvenv.cfg
+!**/src/lib/**
+!**/src/lib
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Testing & Quality Tools ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+
+# --- Node.js & Frontend Assets ---
+node_modules/
+stormsentinel/frontend/node_modules/
+frontend/node_modules/
+dist/
+stormsentinel/frontend/dist/
+frontend/dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.turbo/
+.vite/
+
+# --- Environment Variables & Sensitive Credentials ---
+# Never commit actual secret keys or credentials!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+backend/.env.local
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+*.pem
+*.key
+*.crt
+
+# Keep example files tracked
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# --- Database & Persistent Volume Stores ---
+postgres_data/
+*.sqlite
+*.sqlite3
+*.db
+redis_data/
+data/cache/
+data/downloads/
+
+# --- Heavy ML Model Weights & Raw Large Datasets ---
+# Track architecture and mock checkpoints; download heavy tensors via scripts
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.h5
+*.hdf5
+*.nc
+*.nc4
+*.grib
+*.grib2
+!backend/models/checkpoints/.gitkeep
+!backend/models/checkpoints/convlstm_nowcaster.pt
+
+# --- OS Specific Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- IDE & Editor Artifacts ---
+.idea/
+.vscode/
+.kilo/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# --- Application Logs & Temp Files ---
+*.log
+logs/
+*.pid
+*.seed
+.system_generated/
+scratch/

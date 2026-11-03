@@ -1,0 +1,114 @@
+{
+  "latitude": 26.81898,
+  "longitude": 80.93023,
+  "generationtime_ms": 1.0207891464233398,
+  "utc_offset_seconds": 19800,
+  "timezone": "Asia/Kolkata",
+  "timezone_abbreviation": "GMT+5:30",
+  "elevation": 117.0,
+  "location_id": 8,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "\u00b0C",
+    "relative_humidity_2m": "%",
+    "apparent_temperature": "\u00b0C",
+    "precipitation": "mm",
+    "rain": "mm",
+    "weather_code": "wmo code",
+    "surface_pressure": "hPa",
+    "wind_speed_10m": "km/h",
+    "wind_direction_10m": "\u00b0",
+    "wind_gusts_10m": "km/h"
+  },
+  "current": {
+    "time": "2026-10-05T01:00",
+    "interval": 900,
+    "temperature_2m": 26.0,
+    "relative_humidity_2m": 85,
+    "apparent_temperature": 31.0,
+    "precipitation": 0.0,
+    "rain": 0.0,
+    "weather_code": 0,
+    "surface_pressure": 995.5,
+    "wind_speed_10m": 3.6,
+    "wind_direction_10m": 171,
+    "wind_gusts_10m": 6.5
+  },
+  "hourly_units": {
+    "time": "iso8601",
+    "temperature_2m": "\u00b0C",
+    "precipitation_probability": "%",
+    "precipitation": "mm",
+    "rain": "mm",
+    "weather_code": "wmo code",
+    "wind_gusts_10m": "km/h",
+    "cape": "J/kg"
+  },
+  "hourly": {
+    "time": [
+      "2026-10-05T00:00",
+      "2026-10-05T01:00",
+      "2026-10-05T02:00",
+      "2026-10-05T03:00",
+      "2026-10-05T04:00",
+      "2026-10-05T05:00"
+    ],
+    "temperature_2m": [
+      26.2,
+      25.8,
+      25.4,
+      25.0,
+      24.6,
+      24.1
+    ],
+    "precipitation_probability": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "precipitation": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rain": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "weather_code": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "wind_gusts_10m": [
+      6.5,
+      6.5,
+      5.0,
+      6.5,
+      9.0,
+      8.3
+    ],
+    "cape": [
+      1640.0,
+      1620.0,
+      1500.0,
+      1410.0,
+      1380.0,
+      1360.0
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-08T00:00:00Z",
+  "satellite": "INSAT-3DR",
+  "instrument": "IMAGER_TIR1",
+  "min_cloud_top_temp_k": 204.5,
+  "min_cloud_top_temp_c": -68.65,
+  "overshooting_top_flag": true,
+  "cooling_rate_k_per_15min": -7.4
+}

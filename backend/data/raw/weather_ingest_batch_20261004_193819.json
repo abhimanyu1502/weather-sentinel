@@ -1,0 +1,4874 @@
+{
+  "delhi": {
+    "station": {
+      "id": "delhi",
+      "name": "New Delhi",
+      "state": "Delhi (NCT)",
+      "zone": "North",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "payload": {
+      "latitude": 28.576448,
+      "longitude": 77.18678,
+      "generationtime_ms": 0.2727508544921875,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 214.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 27.1,
+        "relative_humidity_2m": 70,
+        "apparent_temperature": 31.1,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 985.0,
+        "wind_speed_10m": 2.9,
+        "wind_direction_10m": 191,
+        "wind_gusts_10m": 6.1
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          27.5,
+          26.7,
+          26.2,
+          25.7,
+          25.3,
+          25.1
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          6.1,
+          6.1,
+          6.8,
+          7.6,
+          7.2,
+          8.3
+        ],
+        "cape": [
+          1170.0,
+          1120.0,
+          990.0,
+          850.0,
+          800.0,
+          740.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "srinagar": {
+    "station": {
+      "id": "srinagar",
+      "name": "Srinagar",
+      "state": "Jammu & Kashmir",
+      "zone": "North",
+      "lat": 34.0837,
+      "lon": 74.7973
+    },
+    "payload": {
+      "latitude": 34.059753,
+      "longitude": 74.8125,
+      "generationtime_ms": 1.8184185028076172,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 1589.0,
+      "location_id": 1,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 15.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 14.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 842.9,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 106,
+        "wind_gusts_10m": 9.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          15.5,
+          14.6,
+          13.9,
+          13.3,
+          12.9,
+          12.4
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          10.1,
+          9.4,
+          8.3,
+          7.6,
+          7.2,
+          7.2
+        ],
+        "cape": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "leh": {
+    "station": {
+      "id": "leh",
+      "name": "Leh",
+      "state": "Ladakh",
+      "zone": "North",
+      "lat": 34.1526,
+      "lon": 77.5771
+    },
+    "payload": {
+      "latitude": 34.13005,
+      "longitude": 77.60951,
+      "generationtime_ms": 3.092527389526367,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 3414.0,
+      "location_id": 2,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 7.0,
+        "relative_humidity_2m": 28,
+        "apparent_temperature": 3.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 682.4,
+        "wind_speed_10m": 2.2,
+        "wind_direction_10m": 24,
+        "wind_gusts_10m": 8.6
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          7.1,
+          6.9,
+          6.7,
+          6.7,
+          6.5,
+          6.3
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          8.6,
+          8.6,
+          8.6,
+          9.0,
+          9.0,
+          9.4
+        ],
+        "cape": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "shimla": {
+    "station": {
+      "id": "shimla",
+      "name": "Shimla",
+      "state": "Himachal Pradesh",
+      "zone": "North",
+      "lat": 31.1048,
+      "lon": 77.1734
+    },
+    "payload": {
+      "latitude": 31.107204,
+      "longitude": 77.17339,
+      "generationtime_ms": 0.8478164672851562,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 2195.0,
+      "location_id": 3,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 11.1,
+        "relative_humidity_2m": 96,
+        "apparent_temperature": 11.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "surface_pressure": 784.7,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 97,
+        "wind_gusts_10m": 4.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          11.5,
+          10.6,
+          9.7,
+          9.2,
+          9.1,
+          9.5
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          1,
+          1,
+          1,
+          2,
+          1,
+          0
+        ],
+        "wind_gusts_10m": [
+          4.7,
+          5.4,
+          7.9,
+          8.3,
+          7.6,
+          6.8
+        ],
+        "cape": [
+          1390.0,
+          1030.0,
+          850.0,
+          710.0,
+          530.0,
+          490.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "dehradun": {
+    "station": {
+      "id": "dehradun",
+      "name": "Dehradun",
+      "state": "Uttarakhand",
+      "zone": "North",
+      "lat": 30.3165,
+      "lon": 78.0322
+    },
+    "payload": {
+      "latitude": 30.333918,
+      "longitude": 77.97186,
+      "generationtime_ms": 2.4182796478271484,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 652.0,
+      "location_id": 4,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 21.1,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 24.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 937.8,
+        "wind_speed_10m": 1.5,
+        "wind_direction_10m": 21,
+        "wind_gusts_10m": 6.1
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          21.4,
+          20.8,
+          20.5,
+          20.1,
+          19.8,
+          19.7
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "wind_gusts_10m": [
+          6.1,
+          6.1,
+          5.8,
+          6.5,
+          6.8,
+          6.8
+        ],
+        "cape": [
+          1780.0,
+          1740.0,
+          1760.0,
+          1740.0,
+          1690.0,
+          1710.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "chandigarh": {
+    "station": {
+      "id": "chandigarh",
+      "name": "Chandigarh",
+      "state": "Chandigarh",
+      "zone": "North",
+      "lat": 30.7333,
+      "lon": 76.7794
+    },
+    "payload": {
+      "latitude": 30.75571,
+      "longitude": 76.82408,
+      "generationtime_ms": 0.8299350738525391,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 343.0,
+      "location_id": 5,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 23.4,
+        "relative_humidity_2m": 87,
+        "apparent_temperature": 27.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 970.6,
+        "wind_speed_10m": 3.2,
+        "wind_direction_10m": 38,
+        "wind_gusts_10m": 9.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          23.7,
+          23.2,
+          22.6,
+          22.3,
+          22.1,
+          22.2
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          9.7,
+          9.4,
+          7.2,
+          6.5,
+          6.5,
+          5.4
+        ],
+        "cape": [
+          1880.0,
+          1860.0,
+          1800.0,
+          1680.0,
+          1600.0,
+          1570.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "amritsar": {
+    "station": {
+      "id": "amritsar",
+      "name": "Amritsar",
+      "state": "Punjab",
+      "zone": "North",
+      "lat": 31.634,
+      "lon": 74.8723
+    },
+    "payload": {
+      "latitude": 31.669594,
+      "longitude": 74.89208,
+      "generationtime_ms": 1.413583755493164,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 234.0,
+      "location_id": 6,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.3,
+        "relative_humidity_2m": 78,
+        "apparent_temperature": 30.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 982.8,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 69,
+        "wind_gusts_10m": 9.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          26.6,
+          26.0,
+          25.5,
+          25.0,
+          24.6,
+          24.3
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          7.2,
+          11.2,
+          12.2,
+          10.8,
+          10.1,
+          7.9
+        ],
+        "cape": [
+          1900.0,
+          1830.0,
+          1670.0,
+          1740.0,
+          1860.0,
+          1820.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "gurgaon": {
+    "station": {
+      "id": "gurgaon",
+      "name": "Gurugram",
+      "state": "Haryana",
+      "zone": "North",
+      "lat": 28.4595,
+      "lon": 77.0266
+    },
+    "payload": {
+      "latitude": 28.435852,
+      "longitude": 77.01136,
+      "generationtime_ms": 1.4722347259521484,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 228.0,
+      "location_id": 7,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.2,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 28.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 983.4,
+        "wind_speed_10m": 8.1,
+        "wind_direction_10m": 179,
+        "wind_gusts_10m": 14.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          26.5,
+          26.0,
+          25.6,
+          25.3,
+          25.0,
+          24.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          12.6,
+          15.1,
+          13.3,
+          8.6,
+          13.0,
+          15.1
+        ],
+        "cape": [
+          840.0,
+          780.0,
+          860.0,
+          790.0,
+          520.0,
+          30.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "lucknow": {
+    "station": {
+      "id": "lucknow",
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zone": "North",
+      "lat": 26.8467,
+      "lon": 80.9462
+    },
+    "payload": {
+      "latitude": 26.81898,
+      "longitude": 80.93023,
+      "generationtime_ms": 1.0207891464233398,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 117.0,
+      "location_id": 8,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.0,
+        "relative_humidity_2m": 85,
+        "apparent_temperature": 31.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 995.5,
+        "wind_speed_10m": 3.6,
+        "wind_direction_10m": 171,
+        "wind_gusts_10m": 6.5
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          26.2,
+          25.8,
+          25.4,
+          25.0,
+          24.6,
+          24.1
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          6.5,
+          6.5,
+          5.0,
+          6.5,
+          9.0,
+          8.3
+        ],
+        "cape": [
+          1640.0,
+          1620.0,
+          1500.0,
+          1410.0,
+          1380.0,
+          1360.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "jaipur": {
+    "station": {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "zone": "North",
+      "lat": 26.9124,
+      "lon": 75.7873
+    },
+    "payload": {
+      "latitude": 26.889278,
+      "longitude": 75.83149,
+      "generationtime_ms": 0.2453327178955078,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 431.0,
+      "location_id": 9,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 27.7,
+        "relative_humidity_2m": 41,
+        "apparent_temperature": 27.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 962.9,
+        "wind_speed_10m": 9.6,
+        "wind_direction_10m": 256,
+        "wind_gusts_10m": 20.5
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          28.5,
+          26.9,
+          26.4,
+          26.0,
+          25.5,
+          25.2
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          19.4,
+          21.6,
+          26.6,
+          27.7,
+          28.1,
+          28.8
+        ],
+        "cape": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "mumbai": {
+    "station": {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "zone": "West",
+      "lat": 19.076,
+      "lon": 72.8777
+    },
+    "payload": {
+      "latitude": 19.086115,
+      "longitude": 72.85291,
+      "generationtime_ms": 0.2657175064086914,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 6.0,
+      "location_id": 10,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 52,
+        "apparent_temperature": 30.2,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1011.4,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 8,
+        "wind_gusts_10m": 13.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          28.6,
+          28.1,
+          27.6,
+          27.3,
+          26.9,
+          26.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          14.4,
+          13.0,
+          9.4,
+          9.4,
+          12.6,
+          13.7
+        ],
+        "cape": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "pune": {
+    "station": {
+      "id": "pune",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "zone": "West",
+      "lat": 18.5204,
+      "lon": 73.8567
+    },
+    "payload": {
+      "latitude": 18.523726,
+      "longitude": 73.86876,
+      "generationtime_ms": 0.21660327911376953,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 561.0,
+      "location_id": 11,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 69,
+        "apparent_temperature": 26.1,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 951.0,
+        "wind_speed_10m": 5.5,
+        "wind_direction_10m": 229,
+        "wind_gusts_10m": 12.2
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          24.4,
+          23.7,
+          23.3,
+          22.9,
+          22.2,
+          22.0
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          12.2,
+          11.9,
+          8.3,
+          9.4,
+          7.9,
+          8.3
+        ],
+        "cape": [
+          60.0,
+          40.0,
+          40.0,
+          30.0,
+          30.0,
+          30.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "nagpur": {
+    "station": {
+      "id": "nagpur",
+      "name": "Nagpur",
+      "state": "Maharashtra",
+      "zone": "West",
+      "lat": 21.1458,
+      "lon": 79.0882
+    },
+    "payload": {
+      "latitude": 21.124779,
+      "longitude": 79.11585,
+      "generationtime_ms": 0.21648406982421875,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 311.0,
+      "location_id": 12,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.8,
+        "relative_humidity_2m": 53,
+        "apparent_temperature": 28.1,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 977.4,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 316,
+        "wind_gusts_10m": 14.8
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          27.2,
+          26.4,
+          25.7,
+          25.3,
+          25.1,
+          24.7
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          14.8,
+          14.0,
+          14.4,
+          14.4,
+          12.6,
+          11.9
+        ],
+        "cape": [
+          0.0,
+          10.0,
+          30.0,
+          40.0,
+          50.0,
+          50.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "ahmedabad": {
+    "station": {
+      "id": "ahmedabad",
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "zone": "West",
+      "lat": 23.0225,
+      "lon": 72.5714
+    },
+    "payload": {
+      "latitude": 23.022846,
+      "longitude": 72.60188,
+      "generationtime_ms": 0.36346912384033203,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 53.0,
+      "location_id": 13,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 28.8,
+        "relative_humidity_2m": 49,
+        "apparent_temperature": 30.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1006.2,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 280,
+        "wind_gusts_10m": 13.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          29.3,
+          28.3,
+          27.1,
+          26.2,
+          25.7,
+          25.2
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          11.9,
+          14.8,
+          20.9,
+          20.2,
+          18.0,
+          16.6
+        ],
+        "cape": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          50.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "surat": {
+    "station": {
+      "id": "surat",
+      "name": "Surat",
+      "state": "Gujarat",
+      "zone": "West",
+      "lat": 21.1702,
+      "lon": 72.8311
+    },
+    "payload": {
+      "latitude": 21.195078,
+      "longitude": 72.787384,
+      "generationtime_ms": 0.33032894134521484,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 17.0,
+      "location_id": 14,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 32.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1010.0,
+        "wind_speed_10m": 3.0,
+        "wind_direction_10m": 284,
+        "wind_gusts_10m": 14.8
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          27.9,
+          27.1,
+          26.3,
+          25.6,
+          24.9,
+          24.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          17.3,
+          11.5,
+          5.8,
+          5.8,
+          4.0,
+          5.8
+        ],
+        "cape": [
+          1790.0,
+          2110.0,
+          1920.0,
+          1650.0,
+          1530.0,
+          1370.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "panaji": {
+    "station": {
+      "id": "panaji",
+      "name": "Panaji",
+      "state": "Goa",
+      "zone": "West",
+      "lat": 15.4909,
+      "lon": 73.8278
+    },
+    "payload": {
+      "latitude": 15.500878,
+      "longitude": 73.84399,
+      "generationtime_ms": 0.8649826049804688,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 65.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 28.3,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 35.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1004.6,
+        "wind_speed_10m": 6.0,
+        "wind_direction_10m": 153,
+        "wind_gusts_10m": 10.8
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          28.4,
+          28.1,
+          27.7,
+          27.4,
+          27.3,
+          27.4
+        ],
+        "precipitation_probability": [
+          1,
+          1,
+          2,
+          1,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          9.4,
+          12.2,
+          12.2,
+          12.2,
+          14.8,
+          16.6
+        ],
+        "cape": [
+          5220.0,
+          4910.0,
+          4730.0,
+          4490.0,
+          4170.0,
+          4060.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "bengaluru": {
+    "station": {
+      "id": "bengaluru",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "zone": "South",
+      "lat": 12.9716,
+      "lon": 77.5946
+    },
+    "payload": {
+      "latitude": 12.970123,
+      "longitude": 77.56364,
+      "generationtime_ms": 0.23245811462402344,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 910.0,
+      "location_id": 1,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 23.0,
+        "relative_humidity_2m": 79,
+        "apparent_temperature": 25.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 2,
+        "surface_pressure": 914.9,
+        "wind_speed_10m": 4.8,
+        "wind_direction_10m": 143,
+        "wind_gusts_10m": 13.3
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          23.1,
+          22.8,
+          22.5,
+          22.1,
+          21.6,
+          21.1
+        ],
+        "precipitation_probability": [
+          46,
+          33,
+          22,
+          18,
+          16,
+          14
+        ],
+        "precipitation": [
+          0.1,
+          0.1,
+          0.0,
+          0.0,
+          0.1,
+          0.0
+        ],
+        "rain": [
+          0.1,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          51,
+          51,
+          2,
+          1,
+          51,
+          1
+        ],
+        "wind_gusts_10m": [
+          16.2,
+          10.8,
+          10.8,
+          12.2,
+          16.6,
+          16.9
+        ],
+        "cape": [
+          970.0,
+          960.0,
+          950.0,
+          920.0,
+          900.0,
+          1070.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "chennai": {
+    "station": {
+      "id": "chennai",
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "zone": "South",
+      "lat": 13.0827,
+      "lon": 80.2707
+    },
+    "payload": {
+      "latitude": 13.110721,
+      "longitude": 80.2459,
+      "generationtime_ms": 0.8634328842163086,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 12.0,
+      "location_id": 2,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 29.6,
+        "relative_humidity_2m": 67,
+        "apparent_temperature": 33.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1010.6,
+        "wind_speed_10m": 8.5,
+        "wind_direction_10m": 163,
+        "wind_gusts_10m": 19.1
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          29.8,
+          29.5,
+          29.1,
+          28.6,
+          28.2,
+          27.8
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          5,
+          12,
+          16
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "wind_gusts_10m": [
+          19.8,
+          18.4,
+          16.2,
+          12.2,
+          11.2,
+          11.9
+        ],
+        "cape": [
+          1800.0,
+          1810.0,
+          1860.0,
+          2030.0,
+          2150.0,
+          2100.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "hyderabad": {
+    "station": {
+      "id": "hyderabad",
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "zone": "South",
+      "lat": 17.385,
+      "lon": 78.4867
+    },
+    "payload": {
+      "latitude": 17.398945,
+      "longitude": 78.457085,
+      "generationtime_ms": 0.23305416107177734,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 505.0,
+      "location_id": 3,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.2,
+        "relative_humidity_2m": 63,
+        "apparent_temperature": 28.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 957.4,
+        "wind_speed_10m": 4.9,
+        "wind_direction_10m": 118,
+        "wind_gusts_10m": 14.4
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          26.5,
+          26.0,
+          25.6,
+          25.4,
+          25.1,
+          24.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          15.1,
+          13.7,
+          11.5,
+          9.7,
+          10.1,
+          9.7
+        ],
+        "cape": [
+          320.0,
+          440.0,
+          520.0,
+          540.0,
+          530.0,
+          530.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "kochi": {
+    "station": {
+      "id": "kochi",
+      "name": "Kochi",
+      "state": "Kerala",
+      "zone": "South",
+      "lat": 9.9312,
+      "lon": 76.2673
+    },
+    "payload": {
+      "latitude": 9.947276,
+      "longitude": 76.29921,
+      "generationtime_ms": 0.828862190246582,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 6.0,
+      "location_id": 4,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 25.4,
+        "relative_humidity_2m": 93,
+        "apparent_temperature": 30.9,
+        "precipitation": 0.1,
+        "rain": 0.1,
+        "weather_code": 51,
+        "surface_pressure": 1012.9,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 101,
+        "wind_gusts_10m": 14.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          25.4,
+          25.4,
+          25.2,
+          24.9,
+          25.2,
+          25.2
+        ],
+        "precipitation_probability": [
+          38,
+          44,
+          49,
+          49,
+          47,
+          43
+        ],
+        "precipitation": [
+          0.7,
+          0.4,
+          0.1,
+          0.1,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.4,
+          0.1,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          53,
+          51,
+          51,
+          51,
+          1,
+          2
+        ],
+        "wind_gusts_10m": [
+          16.6,
+          12.2,
+          14.4,
+          13.3,
+          9.4,
+          11.2
+        ],
+        "cape": [
+          1160.0,
+          1490.0,
+          1800.0,
+          1940.0,
+          1420.0,
+          1390.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "thiruvananthapuram": {
+    "station": {
+      "id": "thiruvananthapuram",
+      "name": "Thiruvananthapuram",
+      "state": "Kerala",
+      "zone": "South",
+      "lat": 8.5241,
+      "lon": 76.9366
+    },
+    "payload": {
+      "latitude": 8.541301,
+      "longitude": 76.92176,
+      "generationtime_ms": 3.1572580337524414,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 12.0,
+      "location_id": 5,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 98,
+        "apparent_temperature": 29.1,
+        "precipitation": 0.1,
+        "rain": 0.1,
+        "weather_code": 51,
+        "surface_pressure": 1011.8,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 63,
+        "wind_gusts_10m": 18.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          24.3,
+          24.0,
+          24.0,
+          23.8,
+          23.7,
+          23.7
+        ],
+        "precipitation_probability": [
+          32,
+          28,
+          24,
+          19,
+          14,
+          10
+        ],
+        "precipitation": [
+          0.7,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.7,
+          0.3,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          53,
+          51,
+          3,
+          3,
+          2,
+          3
+        ],
+        "wind_gusts_10m": [
+          20.2,
+          15.1,
+          10.8,
+          10.4,
+          11.2,
+          9.7
+        ],
+        "cape": [
+          960.0,
+          680.0,
+          540.0,
+          550.0,
+          570.0,
+          630.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "visakhapatnam": {
+    "station": {
+      "id": "visakhapatnam",
+      "name": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "zone": "South",
+      "lat": 17.6868,
+      "lon": 83.2185
+    },
+    "payload": {
+      "latitude": 17.68014,
+      "longitude": 83.204254,
+      "generationtime_ms": 1.2483596801757812,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 40.0,
+      "location_id": 6,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 89,
+        "apparent_temperature": 32.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1007.2,
+        "wind_speed_10m": 4.1,
+        "wind_direction_10m": 268,
+        "wind_gusts_10m": 9.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          26.8,
+          26.6,
+          26.4,
+          26.3,
+          26.1,
+          25.9
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          9.7,
+          8.6,
+          9.0,
+          9.0,
+          8.3,
+          7.2
+        ],
+        "cape": [
+          2480.0,
+          2430.0,
+          2310.0,
+          2180.0,
+          2110.0,
+          2050.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "puducherry": {
+    "station": {
+      "id": "puducherry",
+      "name": "Puducherry",
+      "state": "Puducherry",
+      "zone": "South",
+      "lat": 11.9416,
+      "lon": 79.8083
+    },
+    "payload": {
+      "latitude": 11.915642,
+      "longitude": 79.8296,
+      "generationtime_ms": 2.279996871948242,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 11.0,
+      "location_id": 7,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 29.7,
+        "relative_humidity_2m": 68,
+        "apparent_temperature": 33.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1010.9,
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 159,
+        "wind_gusts_10m": 19.8
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          29.8,
+          29.6,
+          29.4,
+          29.0,
+          28.3,
+          27.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          7,
+          15,
+          20
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          19.8,
+          19.4,
+          17.6,
+          15.1,
+          15.8,
+          16.2
+        ],
+        "cape": [
+          2070.0,
+          2090.0,
+          2120.0,
+          2190.0,
+          2490.0,
+          2370.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "kolkata": {
+    "station": {
+      "id": "kolkata",
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "zone": "East",
+      "lat": 22.5726,
+      "lon": 88.3639
+    },
+    "payload": {
+      "latitude": 22.601053,
+      "longitude": 88.31776,
+      "generationtime_ms": 0.2689361572265625,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 12.0,
+      "location_id": 8,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 27.5,
+        "relative_humidity_2m": 82,
+        "apparent_temperature": 33.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1008.9,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 203,
+        "wind_gusts_10m": 9.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          27.6,
+          27.4,
+          27.0,
+          26.7,
+          26.6,
+          26.3
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          9.4,
+          10.1,
+          10.4,
+          10.1,
+          9.7,
+          9.7
+        ],
+        "cape": [
+          2120.0,
+          2060.0,
+          2040.0,
+          2070.0,
+          2100.0,
+          1980.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "bhubaneswar": {
+    "station": {
+      "id": "bhubaneswar",
+      "name": "Bhubaneswar",
+      "state": "Odisha",
+      "zone": "East",
+      "lat": 20.2961,
+      "lon": 85.8245
+    },
+    "payload": {
+      "latitude": 20.281195,
+      "longitude": 85.843376,
+      "generationtime_ms": 0.24807453155517578,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 44.0,
+      "location_id": 9,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 25.2,
+        "relative_humidity_2m": 76,
+        "apparent_temperature": 28.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "surface_pressure": 1006.0,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 241,
+        "wind_gusts_10m": 9.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          25.4,
+          25.0,
+          24.5,
+          24.4,
+          24.1,
+          23.9
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          10.4,
+          9.0,
+          13.7,
+          13.7,
+          12.6,
+          10.4
+        ],
+        "cape": [
+          0.0,
+          10.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "patna": {
+    "station": {
+      "id": "patna",
+      "name": "Patna",
+      "state": "Bihar",
+      "zone": "East",
+      "lat": 25.5941,
+      "lon": 85.1376
+    },
+    "payload": {
+      "latitude": 25.6239,
+      "longitude": 85.108696,
+      "generationtime_ms": 0.35560131072998047,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 55.0,
+      "location_id": 10,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 25.8,
+        "relative_humidity_2m": 88,
+        "apparent_temperature": 31.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1003.4,
+        "wind_speed_10m": 1.4,
+        "wind_direction_10m": 180,
+        "wind_gusts_10m": 2.9
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          25.9,
+          25.7,
+          25.5,
+          25.2,
+          25.1,
+          24.7
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          3.2,
+          2.9,
+          3.2,
+          6.5,
+          10.1,
+          10.4
+        ],
+        "cape": [
+          1550.0,
+          1520.0,
+          1490.0,
+          1520.0,
+          1390.0,
+          1180.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "ranchi": {
+    "station": {
+      "id": "ranchi",
+      "name": "Ranchi",
+      "state": "Jharkhand",
+      "zone": "East",
+      "lat": 23.3441,
+      "lon": 85.3096
+    },
+    "payload": {
+      "latitude": 23.37434,
+      "longitude": 85.27311,
+      "generationtime_ms": 1.6614198684692383,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 641.0,
+      "location_id": 11,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 21.1,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 22.8,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 940.2,
+        "wind_speed_10m": 5.2,
+        "wind_direction_10m": 299,
+        "wind_gusts_10m": 10.8
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          21.2,
+          21.2,
+          21.4,
+          21.5,
+          21.0,
+          20.5
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          11.5,
+          9.7,
+          6.1,
+          5.0,
+          6.8,
+          10.8
+        ],
+        "cape": [
+          30.0,
+          20.0,
+          20.0,
+          10.0,
+          10.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "bhopal": {
+    "station": {
+      "id": "bhopal",
+      "name": "Bhopal",
+      "state": "Madhya Pradesh",
+      "zone": "Central",
+      "lat": 23.2599,
+      "lon": 77.4126
+    },
+    "payload": {
+      "latitude": 23.233742,
+      "longitude": 77.452835,
+      "generationtime_ms": 0.9871721267700195,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 495.0,
+      "location_id": 12,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 25.0,
+        "relative_humidity_2m": 55,
+        "apparent_temperature": 25.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 957.2,
+        "wind_speed_10m": 10.0,
+        "wind_direction_10m": 250,
+        "wind_gusts_10m": 18.0
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          25.3,
+          24.8,
+          24.4,
+          23.9,
+          23.4,
+          23.1
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          18.0,
+          18.4,
+          20.2,
+          20.2,
+          18.7,
+          18.7
+        ],
+        "cape": [
+          20.0,
+          10.0,
+          10.0,
+          0.0,
+          0.0,
+          10.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "raipur": {
+    "station": {
+      "id": "raipur",
+      "name": "Raipur",
+      "state": "Chhattisgarh",
+      "zone": "Central",
+      "lat": 21.2514,
+      "lon": 81.6296
+    },
+    "payload": {
+      "latitude": 21.265377,
+      "longitude": 81.65988,
+      "generationtime_ms": 0.35750865936279297,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 296.0,
+      "location_id": 13,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.1,
+        "relative_humidity_2m": 77,
+        "apparent_temperature": 26.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 978.1,
+        "wind_speed_10m": 6.2,
+        "wind_direction_10m": 221,
+        "wind_gusts_10m": 12.6
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          24.4,
+          23.8,
+          23.1,
+          22.8,
+          22.6,
+          22.2
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          12.2,
+          12.2,
+          9.7,
+          6.1,
+          12.2,
+          12.2
+        ],
+        "cape": [
+          50.0,
+          70.0,
+          110.0,
+          160.0,
+          160.0,
+          130.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "guwahati": {
+    "station": {
+      "id": "guwahati",
+      "name": "Guwahati",
+      "state": "Assam",
+      "zone": "Northeast",
+      "lat": 26.1445,
+      "lon": 91.7362
+    },
+    "payload": {
+      "latitude": 26.115992,
+      "longitude": 91.77437,
+      "generationtime_ms": 0.22661685943603516,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 52.0,
+      "location_id": 14,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 29.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1005.5,
+        "wind_speed_10m": 7.2,
+        "wind_direction_10m": 91,
+        "wind_gusts_10m": 14.4
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          24.6,
+          24.4,
+          24.1,
+          23.9,
+          23.7,
+          22.8
+        ],
+        "precipitation_probability": [
+          40,
+          44,
+          49,
+          56,
+          63,
+          67
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.3,
+          0.8
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.6
+        ],
+        "weather_code": [
+          0,
+          0,
+          1,
+          1,
+          51,
+          53
+        ],
+        "wind_gusts_10m": [
+          13.7,
+          15.1,
+          16.9,
+          17.6,
+          15.5,
+          15.8
+        ],
+        "cape": [
+          1400.0,
+          1350.0,
+          1370.0,
+          1230.0,
+          820.0,
+          730.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "shillong": {
+    "station": {
+      "id": "shillong",
+      "name": "Shillong",
+      "state": "Meghalaya",
+      "zone": "Northeast",
+      "lat": 25.5788,
+      "lon": 91.8933
+    },
+    "payload": {
+      "latitude": 25.553602,
+      "longitude": 91.9544,
+      "generationtime_ms": 0.4100799560546875,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 1436.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 15.8,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 16.8,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 3,
+        "surface_pressure": 859.0,
+        "wind_speed_10m": 6.3,
+        "wind_direction_10m": 211,
+        "wind_gusts_10m": 14.4
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          15.9,
+          15.7,
+          15.5,
+          15.3,
+          14.9,
+          14.9
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          3,
+          3,
+          2,
+          2,
+          1,
+          2
+        ],
+        "wind_gusts_10m": [
+          13.7,
+          15.5,
+          17.3,
+          17.3,
+          16.6,
+          15.8
+        ],
+        "cape": [
+          300.0,
+          270.0,
+          300.0,
+          270.0,
+          40.0,
+          0.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "gangtok": {
+    "station": {
+      "id": "gangtok",
+      "name": "Gangtok",
+      "state": "Sikkim",
+      "zone": "Northeast",
+      "lat": 27.3389,
+      "lon": 88.6065
+    },
+    "payload": {
+      "latitude": 27.311071,
+      "longitude": 88.59375,
+      "generationtime_ms": 5.194425582885742,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 1487.0,
+      "location_id": 1,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 16.2,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 17.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 2,
+        "surface_pressure": 854.0,
+        "wind_speed_10m": 1.1,
+        "wind_direction_10m": 279,
+        "wind_gusts_10m": 9.4
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          16.3,
+          16.1,
+          16.0,
+          16.0,
+          15.6,
+          15.6
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "wind_gusts_10m": [
+          9.4,
+          9.4,
+          8.6,
+          9.7,
+          9.4,
+          9.0
+        ],
+        "cape": [
+          580.0,
+          520.0,
+          530.0,
+          470.0,
+          440.0,
+          360.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "agartala": {
+    "station": {
+      "id": "agartala",
+      "name": "Agartala",
+      "state": "Tripura",
+      "zone": "Northeast",
+      "lat": 23.8315,
+      "lon": 91.2868
+    },
+    "payload": {
+      "latitude": 23.796133,
+      "longitude": 91.331924,
+      "generationtime_ms": 3.542780876159668,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 12.0,
+      "location_id": 2,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.7,
+        "relative_humidity_2m": 92,
+        "apparent_temperature": 29.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 1009.4,
+        "wind_speed_10m": 6.9,
+        "wind_direction_10m": 139,
+        "wind_gusts_10m": 13.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          24.8,
+          24.6,
+          24.4,
+          24.3,
+          24.2,
+          24.2
+        ],
+        "precipitation_probability": [
+          3,
+          1,
+          0,
+          0,
+          1,
+          2
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          14.4,
+          12.6,
+          10.1,
+          9.4,
+          9.4,
+          6.8
+        ],
+        "cape": [
+          1800.0,
+          1760.0,
+          1650.0,
+          1590.0,
+          1610.0,
+          1660.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "imphal": {
+    "station": {
+      "id": "imphal",
+      "name": "Imphal",
+      "state": "Manipur",
+      "zone": "Northeast",
+      "lat": 24.817,
+      "lon": 93.9368
+    },
+    "payload": {
+      "latitude": 24.850615,
+      "longitude": 93.96348,
+      "generationtime_ms": 1.1442899703979492,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 782.0,
+      "location_id": 3,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 19.9,
+        "relative_humidity_2m": 91,
+        "apparent_temperature": 22.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 926.1,
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 351,
+        "wind_gusts_10m": 6.1
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          19.9,
+          19.8,
+          19.6,
+          19.5,
+          19.2,
+          19.0
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "wind_gusts_10m": [
+          5.8,
+          6.1,
+          6.1,
+          8.6,
+          10.4,
+          11.9
+        ],
+        "cape": [
+          620.0,
+          570.0,
+          520.0,
+          430.0,
+          370.0,
+          330.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "aizawl": {
+    "station": {
+      "id": "aizawl",
+      "name": "Aizawl",
+      "state": "Mizoram",
+      "zone": "Northeast",
+      "lat": 23.7271,
+      "lon": 92.7176
+    },
+    "payload": {
+      "latitude": 23.725834,
+      "longitude": 92.75607,
+      "generationtime_ms": 0.9090900421142578,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 1069.0,
+      "location_id": 4,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 18.3,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 21.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 3,
+        "surface_pressure": 894.7,
+        "wind_speed_10m": 2.6,
+        "wind_direction_10m": 146,
+        "wind_gusts_10m": 7.6
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          18.5,
+          18.1,
+          18.1,
+          18.0,
+          17.8,
+          17.8
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "wind_gusts_10m": [
+          6.1,
+          8.6,
+          9.0,
+          9.0,
+          8.6,
+          8.6
+        ],
+        "cape": [
+          1930.0,
+          1740.0,
+          1450.0,
+          1160.0,
+          1080.0,
+          1000.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "kohima": {
+    "station": {
+      "id": "kohima",
+      "name": "Kohima",
+      "state": "Nagaland",
+      "zone": "Northeast",
+      "lat": 25.6751,
+      "lon": 94.1086
+    },
+    "payload": {
+      "latitude": 25.694199,
+      "longitude": 94.11317,
+      "generationtime_ms": 0.3235340118408203,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 1438.0,
+      "location_id": 5,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 13.9,
+        "relative_humidity_2m": 100,
+        "apparent_temperature": 14.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 3,
+        "surface_pressure": 857.6,
+        "wind_speed_10m": 4.5,
+        "wind_direction_10m": 203,
+        "wind_gusts_10m": 13.3
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          14.2,
+          13.6,
+          13.2,
+          12.9,
+          12.6,
+          12.8
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2
+        ],
+        "wind_gusts_10m": [
+          13.3,
+          13.3,
+          13.3,
+          13.3,
+          14.4,
+          14.4
+        ],
+        "cape": [
+          260.0,
+          260.0,
+          220.0,
+          190.0,
+          200.0,
+          160.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "itanagar": {
+    "station": {
+      "id": "itanagar",
+      "name": "Itanagar",
+      "state": "Arunachal Pradesh",
+      "zone": "Northeast",
+      "lat": 27.0844,
+      "lon": 93.6053
+    },
+    "payload": {
+      "latitude": 27.029877,
+      "longitude": 93.6,
+      "generationtime_ms": 1.6731023788452148,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 291.0,
+      "location_id": 6,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 21.3,
+        "relative_humidity_2m": 94,
+        "apparent_temperature": 24.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "surface_pressure": 979.6,
+        "wind_speed_10m": 4.3,
+        "wind_direction_10m": 22,
+        "wind_gusts_10m": 9.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          21.3,
+          21.3,
+          21.0,
+          21.0,
+          20.7,
+          20.6
+        ],
+        "precipitation_probability": [
+          53,
+          58,
+          63,
+          67,
+          70,
+          73
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.7,
+          1.8
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.1,
+          0.0
+        ],
+        "weather_code": [
+          1,
+          1,
+          1,
+          51,
+          53,
+          80
+        ],
+        "wind_gusts_10m": [
+          10.1,
+          9.7,
+          9.7,
+          9.4,
+          9.0,
+          9.0
+        ],
+        "cape": [
+          320.0,
+          330.0,
+          330.0,
+          320.0,
+          330.0,
+          300.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "port-blair": {
+    "station": {
+      "id": "port-blair",
+      "name": "Port Blair",
+      "state": "Andaman & Nicobar Islands",
+      "zone": "Islands",
+      "lat": 11.6234,
+      "lon": 92.7265
+    },
+    "payload": {
+      "latitude": 11.634446,
+      "longitude": 92.73459,
+      "generationtime_ms": 2.862095832824707,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 19.0,
+      "location_id": 7,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 24.5,
+        "relative_humidity_2m": 99,
+        "apparent_temperature": 30.1,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 3,
+        "surface_pressure": 1009.2,
+        "wind_speed_10m": 4.6,
+        "wind_direction_10m": 281,
+        "wind_gusts_10m": 8.6
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          25.0,
+          24.1,
+          23.7,
+          23.5,
+          23.4,
+          23.4
+        ],
+        "precipitation_probability": [
+          1,
+          3,
+          4,
+          3,
+          1,
+          2
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "wind_gusts_10m": [
+          6.8,
+          9.7,
+          9.0,
+          7.6,
+          7.6,
+          7.6
+        ],
+        "cape": [
+          1670.0,
+          1200.0,
+          1210.0,
+          1290.0,
+          1330.0,
+          1290.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  },
+  "kavaratti": {
+    "station": {
+      "id": "kavaratti",
+      "name": "Kavaratti",
+      "state": "Lakshadweep",
+      "zone": "Islands",
+      "lat": 10.5667,
+      "lon": 72.6417
+    },
+    "payload": {
+      "latitude": 10.579965,
+      "longitude": 72.61905,
+      "generationtime_ms": 2.5478601455688477,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 14.0,
+      "location_id": 8,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h"
+      },
+      "current": {
+        "time": "2026-10-05T01:00",
+        "interval": 900,
+        "temperature_2m": 29.7,
+        "relative_humidity_2m": 66,
+        "apparent_temperature": 33.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "surface_pressure": 1011.2,
+        "wind_speed_10m": 9.0,
+        "wind_direction_10m": 217,
+        "wind_gusts_10m": 13.7
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "weather_code": "wmo code",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T00:00",
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00"
+        ],
+        "temperature_2m": [
+          29.8,
+          29.6,
+          29.6,
+          29.4,
+          29.4,
+          29.4
+        ],
+        "precipitation_probability": [
+          14,
+          18,
+          20,
+          19,
+          17,
+          16
+        ],
+        "precipitation": [
+          0.1,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.1,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          51,
+          51,
+          1,
+          1,
+          2,
+          3
+        ],
+        "wind_gusts_10m": [
+          13.7,
+          14.0,
+          16.6,
+          18.0,
+          18.0,
+          15.5
+        ],
+        "cape": [
+          1300.0,
+          1490.0,
+          1240.0,
+          1460.0,
+          1570.0,
+          1610.0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T19:38:19.572771+00:00"
+  }
+}

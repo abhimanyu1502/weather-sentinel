@@ -1,0 +1,215 @@
+{
+  "delhi": {
+    "station": {
+      "id": "delhi",
+      "name": "New Delhi",
+      "state": "Delhi (NCT)",
+      "zone": "North",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "payload": {
+      "latitude": 28.576448,
+      "longitude": 77.18678,
+      "generationtime_ms": 0.47898292541503906,
+      "utc_offset_seconds": 19800,
+      "timezone": "Asia/Kolkata",
+      "timezone_abbreviation": "GMT+5:30",
+      "elevation": 214.0,
+      "current_units": {
+        "time": "iso8601",
+        "interval": "seconds",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "apparent_temperature": "\u00b0C",
+        "precipitation": "mm",
+        "rain": "mm",
+        "showers": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "pressure_msl": "hPa",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h",
+        "cloud_cover": "%",
+        "dew_point_2m": "\u00b0C"
+      },
+      "current": {
+        "time": "2026-10-05T01:30",
+        "interval": 900,
+        "temperature_2m": 26.7,
+        "relative_humidity_2m": 71,
+        "apparent_temperature": 30.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "showers": 0.0,
+        "weather_code": 0,
+        "surface_pressure": 984.7,
+        "pressure_msl": 1008.9,
+        "wind_speed_10m": 3.5,
+        "wind_direction_10m": 201,
+        "wind_gusts_10m": 6.1,
+        "cloud_cover": 0,
+        "dew_point_2m": 21.1
+      },
+      "hourly_units": {
+        "time": "iso8601",
+        "temperature_2m": "\u00b0C",
+        "relative_humidity_2m": "%",
+        "dew_point_2m": "\u00b0C",
+        "precipitation_probability": "%",
+        "precipitation": "mm",
+        "rain": "mm",
+        "showers": "mm",
+        "weather_code": "wmo code",
+        "surface_pressure": "hPa",
+        "pressure_msl": "hPa",
+        "visibility": "m",
+        "wind_speed_10m": "km/h",
+        "wind_direction_10m": "\u00b0",
+        "wind_gusts_10m": "km/h",
+        "cape": "J/kg",
+        "cloud_cover": "%"
+      },
+      "hourly": {
+        "time": [
+          "2026-10-05T01:00",
+          "2026-10-05T02:00",
+          "2026-10-05T03:00",
+          "2026-10-05T04:00",
+          "2026-10-05T05:00",
+          "2026-10-05T06:00"
+        ],
+        "temperature_2m": [
+          26.7,
+          26.2,
+          25.7,
+          25.3,
+          25.1,
+          24.8
+        ],
+        "relative_humidity_2m": [
+          71,
+          72,
+          74,
+          75,
+          74,
+          70
+        ],
+        "dew_point_2m": [
+          21.1,
+          20.8,
+          20.6,
+          20.6,
+          20.1,
+          18.9
+        ],
+        "precipitation_probability": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precipitation": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "showers": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "weather_code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "surface_pressure": [
+          984.7,
+          984.2,
+          984.0,
+          984.1,
+          984.6,
+          985.3
+        ],
+        "pressure_msl": [
+          1008.9,
+          1008.5,
+          1008.3,
+          1008.4,
+          1009.0,
+          1009.7
+        ],
+        "visibility": [
+          8600.0,
+          8600.0,
+          8600.0,
+          8600.0,
+          8600.0,
+          8580.0
+        ],
+        "wind_speed_10m": [
+          3.5,
+          3.6,
+          3.7,
+          3.4,
+          4.3,
+          5.5
+        ],
+        "wind_direction_10m": [
+          201,
+          229,
+          231,
+          223,
+          225,
+          234
+        ],
+        "wind_gusts_10m": [
+          6.1,
+          6.8,
+          7.6,
+          7.2,
+          8.3,
+          10.4
+        ],
+        "cape": [
+          1120.0,
+          990.0,
+          850.0,
+          800.0,
+          740.0,
+          360.0
+        ],
+        "cloud_cover": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "ingested_at": "2026-10-04T20:07:34.135197+00:00"
+  }
+}
